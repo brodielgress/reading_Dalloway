@@ -11,20 +11,7 @@ This project uses the NLTK module from Python to explore the language used withi
 
 Python 3 and Jupyter Notebook are required to run this program. If you need, [update or download Python here](https://www.python.org).
 
-### Running Tests
 
-You can also run unit tests to make sure your pandas methods and python function are working correctly.
-
-1. Navigate to find unit tests within folder.
-2. Run files one at a time:
-
-	  `python test_pandas.py`
-
-	  `python test_python.py`
-
-    `python test_sql.py`
-
-The `test_pandas.py` will log your unit test results with a timestamp in the `TRY_IT/text/log.txt` file.
 
 ## Code Louisville Requirements
 
