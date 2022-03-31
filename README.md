@@ -11,7 +11,11 @@ This project uses the NLTK module from Python to explore the language used withi
 
 Python 3 and Jupyter Notebook are required to run this program. If you need, [update or download Python here](https://www.python.org).
 
+<<<<<<< HEAD
 You can open the code on Jupyter Notebook to explore a few insights into this classic modern text.
+=======
+
+>>>>>>> 33d140a656230edab56bca30da893d35fac772f3
 
 ## Code Louisville Requirements
 
