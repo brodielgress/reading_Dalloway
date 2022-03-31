@@ -31,13 +31,15 @@ This program uses the external file "mrs.dalloway.txt" to call up a text version
 ###### Category 3: Data Display
   * Visualize data in a graph, chart, or other representation
   
-This program visualizes how often certain words appear within the _Mrs. Dalloway_ text, using a lexical dispersion plot. You can change the words that appear in the plot by changing the words within the list in cell 8. 
+This program visualizes how often certain words appear within the _Mrs. Dalloway_ text, using a lexical dispersion plot. 
+You can change the words that appear in the plot by changing the words within the list in cell 8.
 
 
 ###### Category 4: Best Practices
-  * Create 3 or more unit tests for your application.
+   * Create 3 or more unit tests for your application.
   
-This code uses three unit tests to check the functionality of previous code, or whether certain text appears within the _Mrs. Dalloway_ text. You can find it within cell 14.
+This code uses three unit tests to check the functionality of previous code, or whether certain text appears within the _Mrs. Dalloway_ text. 
+You can find it within cell 15.
 
 
 ## Acknowledgements
