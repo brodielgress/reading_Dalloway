@@ -11,7 +11,18 @@ This project uses the NLTK module from Python to explore the language used withi
 
 Python 3 and Jupyter Notebook are required to run this program. If you need, [update or download Python here](https://www.python.org).
 
-You can open the code on Jupyter Notebook to explore a few insights into this classic modern text.
+You can open the code on Jupyter Notebook to explore a few insights into this classic modern text. Please install the following packages before you run the program:
+
+pandas as pd 
+numpy as np
+nltk
+unittest
+
+from nltk.tokenize import sent_tokenize, word_tokenize
+from nltk import FreqDist
+from nltk.corpus import stopwords
+
+
 
 ## Code Louisville Requirements
 
