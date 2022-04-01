@@ -13,16 +13,14 @@ Python 3 and Jupyter Notebook are required to run this program. If you need, [up
 
 Open the code on Jupyter Notebook to explore a few insights into this classic text. Please install the following packages before you run the program:
 
-pandas as pd 
-numpy as np
-nltk
-unittest
+1. pandas as pd 
+2. numpy as np
+3. nltk
+4. unittest
 
-from nltk.tokenize import sent_tokenize, word_tokenize
-from nltk import FreqDist
-from nltk.corpus import stopwords
-
-
+5. from nltk.tokenize import sent_tokenize, word_tokenize
+6. from nltk import FreqDist
+7. from nltk.corpus import stopwords
 
 ## Code Louisville Requirements
 
@@ -55,4 +53,8 @@ You can find it within cell 15.
 
 ## Acknowledgements
 
-Thank you, Code Louisville, for the education and opportunities you've served me over four rounds of learning HTML, CSS, JavaScript, and Python. Thank you especially to the mentors who helped me along the way. I've created a strong coding foundation and feel ready to fuel my own learning and job search.
+Thank you, Code Louisville, for the education and opportunities you've served me over four rounds of learning HTML, CSS, JavaScript, and Python. Thank you especially to the mentors who helped me along the way; Will, good luck in graduate school! I'd also like to thank my fellow classmates; their projects are stunning and show me I have so much more to learn about frontend web development, data analysis, and coding in general.
+
+Code Louisville has been a wonderful nest in which to learn coding, and now I feel ready to fly on my own. Before I started, I thought coding was this inscrutable wizardry only teen prodigies or dedicated college students could understand, but coding really does boil down to understanding the logic underlying all your lines of code. If you're determined, know how to research online, and willing to try, try, and try ad infinitum, you can solve almost any problem you create in your code.
+
+Thank you again, and I hope you enjoy my small project.
