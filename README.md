@@ -55,6 +55,6 @@ You can find it within cell 15.
 
 Thank you, Code Louisville, for the education and opportunities you've served me over four rounds of learning HTML, CSS, JavaScript, and Python. Thank you especially to the mentors who helped me along the way; Will, good luck in graduate school! I'd also like to thank my fellow classmates; their projects are stunning and show me I have so much more to learn about frontend web development, data analysis, and coding in general.
 
-Code Louisville has been a wonderful nest in which to learn coding, and now I feel ready to fly on my own. Before I started, I thought coding was this inscrutable wizardry only teen prodigies or dedicated college students could understand, but coding really does boil down to understanding the logic underlying all your lines of code. If you're determined, know how to research online, and willing to try, try, and try ad infinitum, you can solve almost any problem you create in your code.
+Code Louisville has been a wonderful nest in which to learn coding, and now I feel ready to fly on my own. Before I started, I thought coding was this inscrutable wizardry only teen prodigies or dedicated college students could understand, but coding really does boil down to understanding the logic underlying all your lines of code. If you're determined, know how to research online, and willing to try, try, and try ad infinitum, you can solve almost any problem you encounter.
 
 Thank you again, and I hope you enjoy my small project.
